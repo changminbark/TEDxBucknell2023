@@ -5,8 +5,8 @@ A fully dynamic and responsive website for TEDx Bucknell University
 ## Team Members :man_technologist:
 
 - [**Nolan Lwin**](https://github.com/i-am-nolan25) - *Website Manager*
-- [**Hung Ngo**](https://github.com/hungngo04) - *Back-end Developer*
-- [**Chang Min**](https://github.com/changminbark) - *Front-end Developer*
+- [**Hung Ngo**](https://github.com/hungngo04) - *Front-end and Back-end Developer*
+- [**Chang Min**](https://github.com/changminbark) - *Front-end and Back-end Developer*
 - [**Minh Phoung**](https://github.com/ctmphuongg) - *Back-end Developer*
 
 ## Features :rocket:
